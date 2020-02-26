@@ -3,24 +3,24 @@
     { "id": 1, "title": "Founder & Managing Director", "Name": "SIDDHARTH SHANMUGAM", "Email": "sid@inthub.com.au" },
     { "id": 2, "title": "Managing Director", "Name": "ARUN SARAVANAVELU", "Email": "arun@inthub.com.au" },
     { "id": 3, "title": "Managing Director", "Name": "KARTHIKEYAN RAJENDRAN", "Email": "karthik@inthub.com.au" },
-		{ "id": 4, "title": "Managing Director", "Name": "Ex", "Email": "pastemployee@inthub.com.au" },
-		{ "id": 5, "title": "Integration Consultant", "Name": "AJAI LOGANATHAN", "Email": "ajai@inthub.com.au" },
-		{ "id": 6, "title": "Integration Architect", "Name": "KISHORE B", "Email": "kishore@inthub.com.au" },
-		{ "id": 7, "title": "Integration Consultant", "Name": "LAKSHMI PRIYA", "Email": "lakshmi.priya@inthub.com.au" },
-		{ "id": 8, "title": "Solution Architect", "Name": "PALAVESAM SUBBIAH", "Email": "sid@inthub.com.au" },
-		{ "id": 9, "title": "Integration Developer", "Name": "SRI HARSHA", "Email": "sriharsha@inthub.com.au" }
+    { "id": 4, "title": "Managing Director", "Name": "Ex", "Email": "pastemployee@inthub.com.au" },
+    { "id": 5, "title": "Integration Consultant", "Name": "AJAI LOGANATHAN", "Email": "ajai@inthub.com.au" },
+    { "id": 6, "title": "Integration Architect", "Name": "KISHORE B", "Email": "kishore@inthub.com.au" },
+    { "id": 7, "title": "Integration Consultant", "Name": "LAKSHMI PRIYA", "Email": "lakshmi.priya@inthub.com.au" },
+    { "id": 8, "title": "Solution Architect", "Name": "PALAVESAM SUBBIAH", "Email": "sid@inthub.com.au" },
+    { "id": 9, "title": "Integration Developer", "Name": "SRI HARSHA", "Email": "sriharsha@inthub.com.au" }
   ],
   "services": [
     { "id": 1, "name": "Technology Consulting", "postId": 1 },
     { "id": 2, "name": "Project Maintenance", "postId": 1 },
-		{ "id": 3, "name": "Project Delivery", "postId": 1 },
-		{ "id": 4, "name": "Integration Competency Centre", "postId": 1 },
-		{ "id": 5, "name": "Customized Training", "postId": 1 }
+    { "id": 3, "name": "Project Delivery", "postId": 1 },
+    { "id": 4, "name": "Integration Competency Centre", "postId": 1 },
+    { "id": 5, "name": "Customized Training", "postId": 1 }
   ],
-  "about": [
-		{ "name": "Inthub Solutions Pty Ltd" },
-		{ "founded" "Early 2015" },
-		{ "headquarters": "Brisbane, Australia" },
-		{ "branches": ["India"] }
-  ]
+  "company": {
+    "name": "Inthub Solutions Pty Ltd",
+    "founded" "Early 2015",
+    "headquarters": "Brisbane, Australia",
+    "branches": ["India"]
+  }
 }

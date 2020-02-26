@@ -22,7 +22,7 @@ https://my-json-server.typicode.com/sriharsha-inthub/inthub-employees/services/1
 
 https://my-json-server.typicode.com/sriharsha-inthub/inthub-employees/serviceTypes
 
-https://my-json-server.typicode.com/sriharsha-inthub/inthub-employees/serviceTypes/1
+https://my-json-server.typicode.com/sriharsha-inthub/inthub-employees/serviceTypes/1 [1-9]
 
 
 https://my-json-server.typicode.com/sriharsha-inthub/inthub-employees/serviceTypes/services

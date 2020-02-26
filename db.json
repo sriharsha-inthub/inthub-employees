@@ -11,11 +11,11 @@
     { "id": 9, "title": "Integration Developer", "Name": "SRI HARSHA", "Email": "sriharsha@inthub.com.au" }
   ],
   "services": [
-    { "id": 1, "name": "Technology Consulting", "postId": 1 },
-    { "id": 2, "name": "Project Maintenance", "postId": 1 },
-    { "id": 3, "name": "Project Delivery", "postId": 1 },
-    { "id": 4, "name": "Integration Competency Centre", "postId": 1 },
-    { "id": 5, "name": "Customized Training", "postId": 1 }
+    { "id": 1, "name": "Technology Consulting", "terms": ["IIB","MuleESB","DellBhoomi","Cloud","SAP", "CRM"] },
+    { "id": 2, "name": "Project Maintenance", "terms": ["Incident mgnt", "Problem mgnt"] },
+    { "id": 3, "name": "Project Delivery", "terms": ["FixedCost","TimenMaterial","ManagesServices","OnDemand"] },
+    { "id": 4, "name": "Integration Competency Centre", "terms": ["EAI Governance","Standardize Integration Infrastructure","Shared Services and Self Services Setup"] },
+    { "id": 5, "name": "Customized Training", "terms": ["On Premises","Online webinars"] }
   ],
 	"serviceTypes": [
     { "id": 1, "name": "IBM Technologies", "serviceId": 1 },
